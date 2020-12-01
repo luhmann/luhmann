@@ -10,7 +10,7 @@ Unblocking your fellow programmers, product owners and project managers is the m
 
 Complexity is the cause of all frustrations in programming. It cannot be evaded, but avoided. Most often it's a sign that things are not yet fully understood.
 
-Maintaining software is not a lesser task than writing software, it is giving love to what makes you money right now. 
+Maintaining software is no lesser task than writing software, it is giving love to what makes you money right now. 
 
 Communication is unlikely, time-consuming and can be frustrating. It is what you should try hardest to get right.
 
@@ -30,4 +30,4 @@ Document. Think READMEs instead of wikis. Keep them next to your code. Document 
 
 The omnipresence of software means that it guides and thus limits in a very real way what people can say or do. It is your responsibility to enable them to achieve what they want. They will gladly pay you money for it. They most often will not know what they want until they see it. This should not be a cause for frustration, but iteration - preferably with solid metrics.
 
-If you are interested in hiring me, you can contact me through my website. The link is in the sidebar. 
+If you are interested in hiring me, you can contact me through my website or twitter. Links are in the sidebar. 
