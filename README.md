@@ -1,4 +1,4 @@
-I am a freelance software engineer/consultant. My main focus is Frontend Development but software is about making promises to your users and keeping them. This may start in the frontend, but you will need the whole stack to achieve that. I am happy to help skilled teams with the whole experience. I am not looking for permanent positions.
+I am a freelance software engineer/consultant. My main focus is Frontend Development but software is about making promises to your users and keeping them. This may start in the frontend, but you will need the whole stack to achieve that. I am happy to help motivated teams with the whole experience. I am not looking for permanent positions.
 
 These are some of the technologies I have worked with in the past 14 years: Typescript, Javascript, CSS, HTML. React, VueJS, Angular and ecosystems. RxJs, GraphQL, Apollo, Relay. Node, Express, Serverless. Jest, Cypress, Selenium. Elm, ReasonML, ClojureScript. Kotlin, Scala, Java, Spring and ecosystems. Python, Flask, Django. PHP, Symfomy, Zend. Postgres, MySQL, Mongo. Kubernetes, Docker. AWS, Google Cloud, Azure.
 
