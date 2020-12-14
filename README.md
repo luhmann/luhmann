@@ -22,7 +22,7 @@ The weird edge cases you will find are not deficiencies of your tools, but expre
 
 If you want something to change, the best way is a PR.
 
-Having fast feedback loops is the most important thing to get right first. This means comprehensive tests, fast builds, frequent releases, a working solution for test data and testing environments, linting, static types, automatic formatting; POs, UX specialists, QA engineers and an OPs guys that are always happy to talk to you.
+Having fast feedback loops is the most important thing to get right first. This means comprehensive tests, fast builds, frequent releases, a working solution for test data and testing environments, linting, static types, automatic formatting. Also POs, UX specialists, QA engineers and OPs guys that are always happy to talk to you.
 
 Do TDD when you can say exactly what you want upfront, accept the fact that you rarely can.
 
