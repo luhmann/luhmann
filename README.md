@@ -24,7 +24,7 @@ If you want something to change, the best way is a PR.
 
 Having fast feedback loops is the most important thing to get right first. This means comprehensive tests, fast builds, frequent releases, a working solution for test data and testing environments, linting, static types, automatic formatting. Also POs, UX specialists, QA engineers and OPs guys that are always happy to talk to you.
 
-Do TDD when you can say exactly what you want upfront, accept the fact that you rarely can.
+Do TDD when you can say exactly what you want upfront, but accept, that you seldom can.
 
 Document. Think READMEs instead of wikis. Keep them next to your code. Document decisions instead of implementations. Make it really easy to get started. Accept that true understanding cannot be gained from text.
 
