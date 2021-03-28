@@ -18,7 +18,7 @@ Things can be known and understood.
 
 Knowledge needs to be pulled-in, it is almost never handed to you.
 
-The weird edge cases you will find are not deficiencies of your tools, but expressions of human idiosyncrasy. You should embrace them. 
+The weird edge cases you encounter are not deficiencies of your tools, but expressions of human idiosyncrasy. You should embrace them. 
 
 If you want something to change, the best way is a PR.
 
