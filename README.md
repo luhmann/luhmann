@@ -30,4 +30,4 @@ Document. Think READMEs instead of wikis. Keep them next to your code. Document 
 
 The omnipresence of software means that it guides and thus limits in a very real way what people can say or do. It is your responsibility to enable them to achieve what they want. They will gladly pay you money for it. They most often will not know what they want until they see it. This should not be a cause for frustration, but iteration - preferably with solid metrics.
 
-If you are interested in hiring me, you can contact me through my website or twitter. Links are in the sidebar. 
+If you are interested in hiring me, you can contact me through my website. Link is in the sidebar. 
