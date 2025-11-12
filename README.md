@@ -1,4 +1,4 @@
-I'm a freelance software engineer/consultant. My passion is Frontend Development, but software is about making promises to your users and keeping them—which is why I excel in Fullstack roles. I help motivated teams deliver exceptional experiences. I don't do permanent positions.
+I'm a freelance software engineer/consultant. My passion is Frontend Development, but software is about making promises to your users and keeping them, which is why I excel in Fullstack roles. I help motivated teams deliver exceptional experiences. I don't do permanent positions.
 
 ## Technical Experience
 
