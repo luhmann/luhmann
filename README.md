@@ -1,6 +1,6 @@
-I am a freelance software engineer/consultant. My main focus is Frontend Development but software is about making promises to your users and keeping them. This may start in the frontend, but you will need the whole stack to achieve that. I am happy to help motivated teams with the whole experience. I am not looking for permanent positions.
+I am a freelance software engineer/consultant. My passion is Frontend Development but software is about making promises to your users and keeping them, which is why I also love to work in Fullstack Roles. I am happy to help motivated teams with the whole experience. I am not looking for permanent positions.
 
-These are some of the technologies I have worked with in the past 15 years: Typescript, Javascript, CSS, HTML. React, VueJS, Angular, Svelte and ecosystems. RxJs, GraphQL, Apollo, Relay. Node, Express, Fastify, Serverless. Jest, Cypress, Selenium. Elm, ReScript/Reason, ClojureScript. Elixir/Erlang and ecosystems. Kotlin, Scala, Java, Spring and ecosystems. Python, Flask, Django. PHP, Symfony, Zend. Postgres, MySQL, Mongo. Kubernetes, Docker. AWS, Google Cloud Platform, Azure.
+These are some of the technologies I have worked with in the past 19 years: Typescript, Javascript, CSS, HTML. React, VueJS, Angular, Svelte and ecosystems. RxJs, GraphQL, Apollo, Relay. Node, Express, Fastify, Serverless. Jest, Cypress, Selenium. Elm, ReScript/Reason, ClojureScript. Elixir/Erlang, Ecto, Absinthe and ecosystems. Kotlin, Scala, Java, Spring and ecosystems. Python, Flask, Django. PHP, Symfony, Zend. Postgres, MySQL, Mongo. Kubernetes, Docker. AWS, Google Cloud Platform, Azure.
 
 I also believe that technologies do not matter much. The tools you choose should be adequate to solve the problems you encounter, but nowadays they all are. There are very few right and wrongs, almost everything is a tradeoff.
 
@@ -16,7 +16,7 @@ Communication is unlikely, time-consuming and can be frustrating. It is what you
 
 Things can be known and understood.
 
-Knowledge needs to be pulled-in, it is almost never handed to you.
+Knowledge needs to be pulled-in, it is not handed to you.
 
 The weird edge cases you encounter are not deficiencies of your tools, but expressions of human idiosyncrasy. You should embrace them. 
 
