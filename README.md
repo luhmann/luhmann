@@ -19,7 +19,7 @@ I'm a freelance software engineer/consultant. My passion is Frontend Development
 
 ## Beliefs
 
-But **technologies don't matter much**. Your tools should solve your problems, and nowadays they all do. There are very few right and wrongs, almost everything is a tradeoff.
+**Technologies don't matter much**. Your tools should solve your problems, and nowadays they all do. There are very few right and wrongs, almost everything is a tradeoff.
 
 **Pragmatism, Empathy and Ownership are non-negotiable values.**
 
