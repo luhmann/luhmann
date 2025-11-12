@@ -2,7 +2,7 @@ I'm a freelance software engineer/consultant. My passion is Frontend Development
 
 **19 years of experience across the stack:** Typescript, Javascript, CSS, HTML. React, VueJS, Angular, Svelte and ecosystems. NextJS, Remix, Solid. RxJs, GraphQL, Apollo, Relay. Node, Express, Fastify, Serverless. Vite/Vitest, Playwright, Jest, Cypress, Selenium. Elm, ReScript/Reason, ClojureScript. Elixir/Erlang, Ecto, Absinthe and ecosystems. Kotlin, Scala, Java, Spring and ecosystems. Python, Flask, Django. PHP, Symfony, Zend. Postgres, MySQL, Mongo. Kubernetes, Docker. AWS, Google Cloud Platform, Azure.
 
-**But technologies don't matter much.** Your tools should solve your problems, and nowadays they all do. There are very few right and wrongs—almost everything is a tradeoff.
+**But technologies don't matter much.** Your tools should solve your problems, and nowadays they all do. There are very few right and wrongs, almost everything is a tradeoff.
 
 Pragmatism, Empathy and Ownership are non-negotiable values.
 
@@ -16,7 +16,7 @@ Communication is unlikely, time-consuming and can be frustrating. Get it right a
 
 Things can be known and understood.
 
-Knowledge must be pulled in — no one hands it to you.
+Knowledge must be pulled in, no one hands it to you.
 
 Those weird edge cases aren't tool deficiencies — they're human idiosyncrasy. Embrace them.
 
